@@ -49,7 +49,7 @@ Score badges are colour-coded: 🟢 ≥ 80 · 🟡 ≥ 50 · 🔴 < 50
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/talent-scouting-agent.git
+git clone https://github.com/honeymonkarete/talent-scouting-agent.git
 cd talent-scouting-agent
 ```
 
@@ -64,7 +64,7 @@ pip install streamlit PyPDF2 pandas groq
 AI explanations require a free [Groq API key](https://console.groq.com/).
 
 ```bash
-export GROQ_API_KEY=your_key_here
+export GROQ_API_KEY=YOUR_GROQ_API_KEY
 ```
 
 If no key is set, the app falls back to a default explanation string — all other features work normally.
