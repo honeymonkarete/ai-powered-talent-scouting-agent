@@ -1,0 +1,9 @@
+{
+  "name": "Candidate",
+  "skills": [],
+  "interest": {
+    "score": 70,
+    "level": "High",
+    "summary": "Candidate indicated Yes availability and Somewhat alignment."
+  }
+}
